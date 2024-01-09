@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore temporary files
+*~
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Ignore Node.js dependencies
+node_modules/
